@@ -1,0 +1,14 @@
+cd C:\work\ContentsManage
+
+以下のcommand一回だけする
+mvn install:install-file -Dfile="C:\work\ContentsManage\src\main\webapp\WEB-INF\lib\juniversalchardet-1.0.3.jar" -DgroupId=org.mozilla -DartifactId=juniversalchardet -Dversion=1.1 -Dpackaging=jar
+
+mvn package
+
+mvn -P IntegrationTest cargo:deploy
+
+mvn -P IntegrationTest cargo:undeploy
+
+mvn -P Deploy cargo:deploy
+
+mvn -P Deploy cargo:undeploy

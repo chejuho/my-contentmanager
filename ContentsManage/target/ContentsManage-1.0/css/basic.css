@@ -1,0 +1,152 @@
+@charset "utf-8";
+
+a.button {
+	color:#ffffff;
+	background-color:#009900;
+	font-weight:bold;
+	text-decoration:none;
+	border:outset 2px #00cc66;
+}
+
+
+SELECT {
+	font-size:18px;
+	width: 150px;
+}
+
+
+IMG	{border:0}
+
+detailtable {
+border-collapse: collapse; /* 枠線の表示方法 */
+border: 1px #1C79C6 solid; /* テーブル全体の枠線（太さ・色・スタイル） */
+}
+
+.detailtable TD {
+border: 1px #1C79C6 solid; /* セルの枠線（太さ・色・スタイル） */
+padding: 5px; /* セル内の余白 */
+}
+
+/* LINK */
+a.list:link, a:visited, a:active	{color:#333333; /*font-family:dotum;*/
+ font-size:18px; text-decoration:none; line-height:17px}
+a.list:hover	{
+	color:#808080;
+	/*font-family:dotum;*/
+	font-size:18px;
+	text-decoration:none;
+	line-height:17px
+}
+
+table.basic{
+    border-top:1px solid #663300;
+    border-left:1px solid #663300;
+    border-collapse:collapse;
+    border-spacing:0;
+    background-color:#ffffff;
+    empty-cells:show;
+}
+.basic th{
+    border-right:1px solid #663300;
+    border-bottom:1px solid #663300;
+    color:#330000;
+    background-color:#FDF5E6;
+    background-position:left top;
+    padding:0.3em 1em;
+    text-align:center;
+}
+.basic td{
+    border-right:1px solid #663300;
+    border-bottom:1px solid #663300;
+    padding:0.3em 1em;
+}
+
+table.menulist{
+    border-collapse:collapse;
+    border-spacing:0;
+    background-color:#FFFFFF;
+    empty-cells:show;
+}
+.menulist th{
+    color:#330000;
+    background-color:#E0FFFF;
+    background-position:left top;
+    padding:0.3em 1em;
+    text-align:center;
+}
+.menulist td{
+
+    padding:0.3em 1em;
+}
+
+a.btn{
+	width:80px;
+	height:30px;
+	border:1px solid #0099CC;
+	text-decoration:none;
+	color:#330000;
+	font-weight:bold;
+	font-size:16px;
+	text-align:center;
+	line-height:30px;
+	margin-bottom:5px;}
+a.btn:hover{color:#66CCCC;text-decoration:underline;}
+
+a.basic{color:#008800;text-decoration:none;}
+a.basic:hover{color:#ff0000;text-decoration:underline;}
+
+a:link { color: #008800 }   /* リンク */
+a:visited {                 /* 既に見たリンク */
+  color: #ff0000;
+  text-decoration: none     /* 下線を消す */
+}
+a:active { color: #ff0000 } /* クリック時のリンク */
+a:hover {                   /* カーソルが上にある時のリンク */
+  color: #ff0000;
+  text-decoration: none     /* 下線を消す */
+}
+
+
+#menu_v1{
+	background:#FFF5EE;
+	width:250px;/*- メニュー 幅- */
+}
+#menu_v1 ul{
+	padding:0;
+	margin:0;
+	list-style:none;
+}
+#menu_v1 li{
+	list-style:none;
+	margin:2px 0;/*- メニュー 間- */
+}
+#menu_v1 li a{
+	list-style:none;
+	background:#F0F8FF;
+	color:#000000;/*- メニュー 文字カラー- */
+	text-transform:uppercase;
+	font-size:18px;/*- メニュー 文字サイズ- */
+	font-weight:bold;
+	text-decoration:none;
+
+	border-width:0 10px 0 10px;
+	display:block;
+	height:35px;
+	line-height:35px;/*- メニュー 高さ- */
+	padding:0 0 0 10px;
+}
+#menu_v1 li a:hover{
+	background:#FFF5EE;
+	color:#000000;
+}
+#menu_v1 li a.selected{
+	background:#FFF5EE;
+	color:#000000;
+	border:solid #6f9234;
+	border-width:0 10px 0 10px;
+}
+#menu_v1 li a:hover.selected{
+	background:#FFF5EE;
+	color:#000000;
+}
+

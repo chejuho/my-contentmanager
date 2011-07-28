@@ -1,0 +1,22 @@
+﻿/* border base */
+th.sch_month_sunday{
+	background-color: #FFBBBB;
+	height:15pt;width:25pt;
+	text-align:center;
+	color: red;
+	font-size:12px
+}
+th.sch_month_saturday{
+	background-color: #BBBBFF;
+	height:15pt;width:25pt;
+	text-align:center;
+	color: blue;
+	font-size:12px
+}
+th.sch_month_weekday{
+	background-color: #EEEEEE;
+	height:15pt;width:25pt;
+	text-align:center;
+	color: #555555;
+	font-size:12px
+}

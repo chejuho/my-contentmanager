@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: jp.co.gmod.manage.service.TableInfoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.625 sec
