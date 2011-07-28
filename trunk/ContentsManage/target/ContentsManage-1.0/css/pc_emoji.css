@@ -1,0 +1,56 @@
+div.emoji_palette {
+    position:	absolute;
+    top:	100px;
+    left:	100px;
+    border:	1px solid #FC6;
+    z-index:	5;
+    width:	370px;
+    background-color:	#FFF;
+}
+div.emoji_palette_title {
+    background-color:	#FC6;
+    color:	#FFF;
+    height:	1.5em;
+    cursor:	crosshair;
+}
+div.emoji_palette_title_left {
+    float:	left;
+    text-align:	left;
+    width:	100px;
+    padding-left:	4px;
+}
+div.emoji_palette_title_right {
+    margin-left:	100px;
+    text-align:		right;
+    padding-right:	10px;
+}
+span.emoji_palette_close {
+    color:	#FFF;
+    font-size:	80%;
+    text-decoration:	none;
+    cursor:    pointer;
+}
+div.emoji_palette table {
+    border-collapse: collapse;
+    margin: 2px 4px;
+}
+
+div.emoji_palette td {
+    padding:   1px;
+    cursor:	pointer;
+}
+
+div.emoji_palette td.null_emoji {
+    background-color:	#FFF;
+    padding:   1px;
+    cursor:    default;
+}
+
+img.emoji_entry:hover {
+    border:	1px solid #FC6;
+    cursor:	pointer;
+}
+img.emoji_entry {
+    border:	1px solid #FFF;
+    cursor:	pointer;
+}

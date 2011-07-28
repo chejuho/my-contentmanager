@@ -1,0 +1,15 @@
+"id","country_id","name","move_cost","bg_color","bg_image_upper_url","line_image_upper_url","line_image_lower_url","quest_button_image_url","atelier_button_image_url","quest_hospital_image_url","atelier_hospital_image_url","bg_image_lower_url","map_image_url","information","updated_by","updated_at","created_by","created_at"
+"1","0","³Ş§ÙĞÙ’é‘","300","#b92f2f","/res/99hakai/img/parts/mypage_02_01.gif","/res/99hakai/img/parts/parts_02_text01.gif","/res/99hakai/img/parts/parts_02_text02.gif","/res/99hakai/img/button/mypage_02_btn01.gif","/res/99hakai/img/button/mypage_02_btn02.gif","/res/99hakai/img/button/mypage_02_btn01b.gif","/res/99hakai/img/button/mypage_02_btn02b.gif","/res/99hakai/img/parts/mypage_02_02.gif","/res/99hakai/img/parts/parts_00_map02_01.gif","Ô‚­Š‰‚¢‚½“y‚ÆÜ”M‚Ì‰ÎR’n‘Ñ‚ÉˆÍ‚Ü‚ê‚½’é‘¡i‰¼","f-ayabe","2010-07-05 11:00:01.0","f-ayabe","2010-07-05 11:00:01.0"
+"2","1","¼ª°×‹¤˜a‘","300","#007131","/res/99hakai/img/parts/mypage_03_01.gif","/res/99hakai/img/parts/parts_03_text01.gif","/res/99hakai/img/parts/parts_03_text02.gif","/res/99hakai/img/button/mypage_03_btn01.gif","/res/99hakai/img/button/mypage_03_btn02.gif","/res/99hakai/img/button/mypage_03_btn01b.gif","/res/99hakai/img/button/mypage_03_btn02b.gif","/res/99hakai/img/parts/mypage_03_02.gif","/res/99hakai/img/parts/parts_00_map03_01.gif","[‚¢X‚Éç‚ç‚ê‚½…‚Æ—Î‚Ì‹¤˜a‘¡i‰¼","f-ayabe","2010-07-05 11:00:01.0","f-ayabe","2010-07-05 11:00:01.0"
+"3","25","ÙØ±‰¤‘","300","#0083b7","/res/99hakai/img/parts/mypage_01_01.gif","/res/99hakai/img/parts/parts_01_text01.gif","/res/99hakai/img/parts/parts_01_text02.gif","/res/99hakai/img/button/mypage_01_btn01.gif","/res/99hakai/img/button/mypage_01_btn02.gif","/res/99hakai/img/button/mypage_01_btn01b.gif","/res/99hakai/img/button/mypage_01_btn02b.gif","/res/99hakai/img/parts/mypage_01_02.gif","/res/99hakai/img/parts/parts_00_map01_01.gif","‚Ç‚±‚Ü‚Å‚à‘±‚­L‘å‚ÈŠC‰ˆ‚¢‚É’z‚©‚ê‚½Â‚¢‰¤‘¡i‰¼","test","2010-08-10 16:09:07.0","f-ayabe","2010-07-05 11:00:01.0"
+"5","54","2","2","3","4","5","3","3","4","3","3","3","3","3","test","2010-08-10 18:38:33.0","test","2010-08-10 18:38:33.0"
+"6","9","1","111","1","1","1","1111","1","1","1","1","1","1","1","test","2010-08-24 15:32:19.0","test","2010-08-10 18:40:17.0"
+"10","66","ƒeƒXƒg‚P‚P‚P‚P","11","‚P","‚P","‚P","‚P","‚P","‚P","‚P","","","","","test","2010-08-24 17:16:24.0","test","2010-08-24 17:14:12.0"
+"11","888","ƒeƒXƒg
+ƒeƒXƒg
+ƒeƒXƒg
+ƒeƒXƒg","1","‚P","","","","","","","","","","","test","2010-08-24 17:20:16.0","test","2010-08-24 17:17:36.0"
+"12","222","second
+third
+teee","0","","","","","","","","","","","","test","2010-09-07 19:39:07.0","test","2010-08-24 18:17:02.0"
+"22","112","‘–¼(name)  ","0","","","","","","","","","","","","test","2010-09-07 19:36:36.0","test","2010-09-07 19:36:36.0"

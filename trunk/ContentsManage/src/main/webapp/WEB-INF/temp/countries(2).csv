@@ -1,0 +1,9 @@
+id,country_id,name,move_cost,bg_color,bg_image_upper_url,line_image_upper_url,line_image_lower_url,quest_button_image_url,atelier_button_image_url,quest_hospital_image_url,atelier_hospital_image_url,bg_image_lower_url,map_image_url,information,updated_by,updated_at,created_by,created_at
+22,112,国名(name)  ?sdsss,0,,,,,,,,,,,,test,2010/9/16 11:10,test,2010/9/7 19:36
+12,222,"second
+thir$e(?)d
+teee$e(?)",0,,,,,,,,,,,,test,2010/9/17 12:32,test,2010/8/24 18:17
+11,888,"テスト
+テスト
+テスト
+テスト",1,1,,,,,,,,,,,test,2010/8/24 17:20,test,2010/8/24 17:17

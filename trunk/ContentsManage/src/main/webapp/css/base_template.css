@@ -1,0 +1,63 @@
+div {
+ background-color:#f0f0c0;
+}
+
+/****************/
+/* header parts */
+/****************/
+#headerContainer{
+ width:760px;
+ height:80px;
+}
+
+#LogoContainer{
+ width:200px;
+ float:left;
+}
+
+#PageTitle{
+ width:355px;
+ text-align:center;
+ float:left;
+}
+
+#LoginContainer{
+ width:200px;
+ float:left;
+}
+
+/****************/
+/* body parts */
+/****************/
+#mainContainer{
+ width:760px;
+ height:500px;
+ padding-top:5px;
+ clear: left;
+}
+
+#menuContainer{
+ width:160px;
+ text-align:center;
+ float:left;
+}
+
+#BodyContainer{
+ width:600px;
+ float:left;
+}
+
+#MenuTable {
+ width:100%;
+ border-collapse:collapse;
+}
+
+.expandLink {
+ display:block;
+ width:100%;
+ height:100%;
+}
+
+.expandLink:hover {
+ background-color:#ffcccc;
+}

@@ -1,0 +1,20 @@
+#Mon Sep 06 12:07:08 JST 2010
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/webapp/WEB-INF/temp/\u30B3\u30D4\u30FC\ \uFF5E\ countries.csv=MS932
+encoding//src/main/webapp/WEB-INF/view/common/base_template.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/common/calendar.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/common/header.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/contentlist/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/error/error.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/passchange.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/tablelist/deleteopen.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/tablelist/detail.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/tablelist/editconfirm.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/tablelist/editopen.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/tablelist/importopen.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/tablelist/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/tablelist/insertconfirm.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/tablelist/insertopen.jsp=UTF-8
+encoding/<project>=UTF-8
